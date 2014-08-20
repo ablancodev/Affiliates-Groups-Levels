@@ -59,5 +59,5 @@ public static function option_ ( $value ) {
 }
 
 }
-Affiliates_Groups_Level::init();
+Affiliates_Groups_Level_Plugin::init();
 ?>
